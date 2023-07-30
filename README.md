@@ -1,4 +1,4 @@
-# Project Title: Next.js + TypeScript + Tailwind CSS Docker Boilerplate
+# Next.js + TypeScript + Tailwind CSS Docker Boilerplate
 
 This is an open-source boilerplate to bootstrap your Next.js projects with Docker, TypeScript, and Tailwind CSS. It is designed to speed up your development process, providing a ready-to-go template that incorporates best practices for these technologies.
 
