@@ -19,22 +19,16 @@ Before you begin, ensure you have installed:
 
 ## Installation
 
-````bash
+```bash
 # Clone this repository
-git clone https://github.com/pavelee/your-repo-name.git
+git clone https://github.com/pavelee/docker-next13.git
 
 # Navigate into the directory
-cd your-repo-name
+cd docker-next13
 
-# Install dependencies
-yarn install
-
-## Running the Application
-
-```bash
-# Build the Docker image and run it
-docker-compose up --build
-````
+# Run the application
+docker-compose up -d
+```
 
 Your application should now be running on http://localhost:3000.
 
